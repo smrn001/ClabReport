@@ -2,7 +2,7 @@
 // individual digit
 #include <stdio.h>
 int main() {
-  int number, d1, d2, d3, d4, rev;
+  int number, d1, d2, d3, d4, sum;
   printf("Enter a four-digit number: ");
   scanf("%d", &number);
   d4 = number % 10;
@@ -12,7 +12,7 @@ int main() {
   d2 = number % 10;
   number = number / 10;
   d1 = number;
-  rev = d4 * 1000 + d3 * 100 + d2 * 10 + d1;
-  printf("Reversed number is %d\n", rev);
+  sum = d4 + d3 + d2 + d1;
+  printf("Sum of four-digit numbers is %d\n", sum);
   return 0;
 }
