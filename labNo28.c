@@ -11,4 +11,4 @@ int main() {
   days = days % 30;
   printf("It  is %d year  %d  month  %d  days \n", year, month, days);
   return 0;
-}
+} 
