@@ -1,0 +1,148 @@
+Lab Sheet # 01(Algorithm and Flowchart)
+
+1. Write an algorithm and draw flowchart to find the addition of any two
+input numbers.
+2. Write an algorithm and draw flowchart to compute Simple interest.
+3. Write an algorithm and draw flowchart to find the area and perimeter of
+a rectangle.
+4. Write an algorithm and draw flowchart to convert centigrade
+temperature to Fahrenheit temperature.
+5. Write an algorithm and draw flowchart to determine the largest number
+among three numbers entered by the user
+6. Write an algorithm and draw flowchart to add first 10 numbers
+7. Write an algorithm and draw flowchart to check whether a given number
+is zero or positive or negative
+8. Write an algorithm and draw flowchart to check whether a given number
+is prime or composite.
+9. Write an algorithm and draw Flowchart to Calculate factorial of any
+number
+10.Write flowchart and program for checking whether the number entered
+by the user is exactly divisible by 5 or by 11
+
+
+Lab Sheet # 02(Sequence Control Statement)
+
+
+11.Write a Program to display “Hello world!”
+12.Write a Program to find the addition of two input numbers.
+13.Write a Program initialize integer, float and character value and display
+them.
+14.Write a Program to input the length and breadth of a rectangle and find
+the area and perimeter of rectangle
+15.Write a Program to convert centigrade temperature to Fahrenheit
+temperature.
+16.Write a Program to calculate the area and circumference of a circle.
+17.Write a Program to calculate the simple interest.
+18.Write a Program to input any three numbers and find their sum and
+average
+19.Write a program to input any number and find the square of that input
+number.
+20.Write a program to calculate the area and circumference of a circle using
+the concept of pre-processor directive.
+21.Write a program to calculate the square root of a given number using
+library function.
+22.Write a program to perform addition, subtraction, multiplication and
+division of any two input numbers.
+23.Write a program to input three-digit numbers and find the sum of
+individual digit.
+24.Write a program to input three-digit numbers and find the sum of first
+and last digit.
+25.Write a program to input three-digit numbers and reverse that input
+number.
+26.Write a program to input four-digit numbers and find the sum of
+individual digit.
+27.Rajesh’s basic salary is input through the keyboard. His dearness
+allowance is 40% of basic salary, and house rent allowance is 20% of basic
+salary. Write a program to calculate his gross salary
+28.Write a program to input number of days and convert it into year, month
+and days
+29.Write a Program to swap two numbers using third variable
+30.Write a Program to swap two numbers without using third variable
+
+
+Lab Sheet # 03 (Input output operations)
+
+
+31. Write a Program in C to input any character and display that character value.
+32. Write a program in C to perform single character input and output using getchar ()
+and putchar () function.
+33. Write a program in C to perform string input and output operation using gets () and
+puts () function.
+34. Write a program in C that make use of different conversion specification available in
+C.
+35. Write a program in C to input any character and display the equivalent ASCII value
+of that character.
+36. Write a program in C to input ID, Name and Salary of employee and display them
+
+
+Lab Sheet # 04 (Control Statements)
+
+
+37. Write a Program to determine whether the input number is divisible by 5 or not.
+38. Write a Program to input any number and determine whether the input number is
+odd or even.
+39. Write a Program to find the greatest among three input numbers
+40. Write a Program to input an age of a person and determine he/she is in teenager group
+or not. If his/her age is 16 then display teenager as well as middle age of teenager
+41. Write a Program to input a three-digit number and determine whether the input
+number is palindrome or not
+42. Write a program in C to input any integer type number and check whether the
+entered number is positive even number or positive odd number or negative even
+number or negative odd number
+43. Write a program in C to find the second largest number among three numbers
+The monthly electricity bill is to be computed as follows: -
+a. Minimum Rs.80/- for up to 20 units
+b. Rs. 7.30 per unit for next 100 units
+c. Rs 9.00 per unit for any units beyond 120 units
+Write a program to compute monthly bill for given number of units consumed by a
+customer
+44. Write a program in C to check whether the entered character is vowel or consonant
+or other characters using switch case
+45. Write a program to display the numbers from 1 to 100 using a) for loop b) while loop
+and c) do...while loop
+46. Write a program to display even numbers from 1 to n using a) for loop b) while loop
+and c) do...while loop
+47. Write a program to display odd numbers from 1 to n using a) for loop b) while loop
+and c) do...while loop
+48. Write a C program to generate the first n terms of the Fibonacci sequence
+49. Write a program in C to input a three-digit number and find the sum of individual
+digit using while loop.
+50. Write a program in C to find the prime factors of an input number.
+51. Write a program to calculate LCM of any two number entered by the user
+52. Write a program to calculate HCF of any two number entered by the user
+53. Write a program in C to find the sum of given number of squares using while loop.
+For example, if 4 is input, then the program will print 30, which is equal to
+1
+2+22+32+42
+54. Write a C program to find the sum of following Series: 1/1! + 2/2! + 3/3! + 4/4! + ...
+N/N! Where N is any number entered by the user
+55. Write a program in C that make use of break, continue and goto statement
+
+
+Lab Sheet # 05 (Arrays and Strings)
+
+
+56. Write a program to read n numbers from keyboard, store them in array and find
+their average
+57. Write a program that asks for n numbers from users, store them in an array and find
+the maximum and minimum numbers of them
+58. Write a program to read marks of n students and print out the top five
+59. Write a program to read an array of length N. Display the total count for positive
+numbers, negative numbers and zeros separately
+60. Write a Program to enter salary of N employee and find total Number of employees
+getting salary between 5000-1000 using an array
+61. Write a program to read n numbers from keyboard and store in an array. Add even
+numbers and odd numbers separately and display the result
+62. Write C Program to Sort N Numbers in Ascending and Descending order
+63. Write a program to read order of matrix and its elements. Find transpose of the
+matrix
+64. Write a program that Calculate and print the sum of individual rows and columns of
+a matrix:
+65. Write a program that reads a string from keyboard until user press an enter key and
+count the vowels, consonants, semicolons, commas separately in the string
+66. Develop a C program that prompts the user to enter two strings and concatenates
+them using the strcat function. Display the concatenated string.
+67. Write a C program that takes a user-input string and copies it to another string using
+the strcpy function. Display the copied string.
+68. Create a C program that compares two strings entered by the user using the strcmp
+function. Display whether the strings are equal, greater, or less than each other.
