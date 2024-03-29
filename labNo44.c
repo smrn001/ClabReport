@@ -1,5 +1,4 @@
 // 44. Write a program in C to check whether the entered character is vowel or
-// consonant or other characters using switch case
 #include <stdio.h>
 
 int main() {
@@ -22,7 +21,10 @@ int main() {
     printf("%c is a vowel.\n", ch);
     break;
   default:
-    printf("%c is a consonant or other character.\n", ch);
+    if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
+      printf("%c is a consonant.\n", ch);
+    else
+      printf("%c is not a letter.\n", ch);
   }
 
   return 0;
