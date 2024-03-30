@@ -12,13 +12,6 @@ int main() {
       scanf("%d", &matrix[i][j]);
     }
   }
-  printf("Original Matrix:\n");
-  for (i = 0; i < rows; i++) {
-    for (j = 0; j < cols; j++) {
-      printf("%d ", matrix[i][j]);
-    }
-    printf("\n");
-  }
   printf("Sum of individual rows:\n");
   for (i = 0; i < rows; i++) {
     int sum = 0;
