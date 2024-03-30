@@ -3,10 +3,8 @@
 #include <stdio.h>
 int main() {
   int i, j, rows, cols;
-  printf("Enter the number of rows: ");
-  scanf("%d", &rows);
-  printf("Enter the number of columns: ");
-  scanf("%d", &cols);
+  printf("Enter the number of rows and columns : ");
+  scanf("%d %d", &rows, &cols);
   int matrix[rows][cols];
   printf("Enter the elements of the matrix:\n");
   for (i = 0; i < rows; i++) {
