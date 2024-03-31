@@ -21,6 +21,6 @@ int main() {
   scanf("%d", &n);
 
   generateFibonacci(n);
-
+  printf("\n");
   return 0;
 }

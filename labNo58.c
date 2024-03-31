@@ -26,8 +26,9 @@ int main() {
 
   printf("Top five marks:\n");
   for (i = 0; i < 5; i++) {
-    printf("%d\n", marks[i]);
+    printf("%d ", marks[i]);
   }
+  printf("\n");
 
   return 0;
 }

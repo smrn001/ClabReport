@@ -7,8 +7,9 @@ int main() {
   printf("Factors of %d are: ", number);
   for (int i = 1; i <= number; i++) {
     if (number % i == 0) {
-      printf("%d\t ", i);
+      printf("%d ", i);
     }
   }
+  printf("\n");
   return 0;
 }

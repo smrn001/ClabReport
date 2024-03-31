@@ -20,13 +20,13 @@ int main() {
     }
   }
 
-  printf("Original Matrix:\n");
-  for (i = 0; i < rows; i++) {
-    for (j = 0; j < cols; j++) {
-      printf("%d ", matrix[i][j]);
-    }
-    printf("\n");
-  }
+  // printf("Original Matrix:\n");
+  // for (i = 0; i < rows; i++) {
+  //   for (j = 0; j < cols; j++) {
+  //     printf("%d ", matrix[i][j]);
+  //   }
+  //   printf("\n");
+  // }
 
   printf("Transpose of the Matrix:\n");
   for (i = 0; i < cols; i++) {

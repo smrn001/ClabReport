@@ -7,7 +7,7 @@ int main() {
   scanf("%d%d", &a, &b);
   for (lcm = 1; lcm <= a * b; lcm++) {
     if (lcm % a == 0 && lcm % b == 0) {
-      printf("The LCM of %d and %d is %d", a, b, lcm);
+      printf("The LCM of %d and %d is %d \ns", a, b, lcm);
       break;
     }
   }

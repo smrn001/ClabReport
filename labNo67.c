@@ -12,7 +12,7 @@ int main() {
 
   strcpy(destination, source);
 
-  printf("Copied string: %s", destination);
+  printf("Copied string: %s\n", destination);
 
   return 0;
 }

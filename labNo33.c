@@ -6,10 +6,9 @@ int main() {
   char str[100];
 
   printf("Enter a string: ");
-  gets(str);
+  fgets(str, sizeof(str), stdin);
 
   printf("Entered string: ");
   puts(str);
-
   return 0;
 }

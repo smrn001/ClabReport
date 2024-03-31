@@ -27,5 +27,6 @@ int main() {
   for (int i = n - 1; i >= 0; i--) {
     printf("%d ", num[i]);
   }
+  printf("\n");
   return 0;
 }
