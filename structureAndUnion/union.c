@@ -3,13 +3,14 @@ union student
 {
 int roll;;
 float marks;
-} st;
+} ;
 
 int main()
 {
-st.roll=455;
+union student st;
+st.roll=60;
 printf("\n Roll=%d",st.roll);
-st.marks=78;
+st.marks=55.5;
 printf("\n Marks=%f",st.marks);
 return 0;
 }
