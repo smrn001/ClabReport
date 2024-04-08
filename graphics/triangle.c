@@ -10,3 +10,4 @@ line(10, 20, 50, 60);
 line(50, 60, 200, 100);
 getch();
 closegraph();
+}
